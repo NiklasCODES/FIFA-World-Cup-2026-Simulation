@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local analysis state
+.RData
+.Rhistory
+anaconda_projects/
+
+# Large/private source data kept local
+archive/
+FC26_20250921.csv
+country_population.csv
+WorldCupTemps*.csv
+WorldCup2026Temps*.csv
+
+# Generated outputs
+worldcup_2026_outputs/**
+!worldcup_2026_outputs/.gitkeep
+
+# Local notebooks and rendered artifacts
+*.ipynb
+*.html
+*.png
+*.svg
+*.mov
+
+# Misc local scratch files
+simulation_result.txt
+names.txt
+names2.txt
+candidate_video_titles.txt
+RenderVideoCommands.txt
+latex_formulas.txt
