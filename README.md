@@ -1,5 +1,7 @@
 # FIFA World Cup 2026 Prediction Project
 
+This project was created in the frame of this video: https://youtu.be/6KKWAJYt-pw
+
 This repository contains a full modeling and simulation workflow for forecasting the **2026 FIFA World Cup** using a mix of:
 
 - probabilistic football models,
